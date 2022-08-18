@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Stillssi
+- 👀 I’m interested in Python and ML
+- 🌱 I’m currently learning AI/ML
+- 💞️ I’m looking to collaborate on ML project!
+- 📫 How to reach me @stillssi
