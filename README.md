@@ -1,8 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Stillssi's Github&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
 <div align="center">
-<img width="80%" src="https://i.pinimg.com/originals/e2/81/6f/e2816fda528aa3a4775db103db27ed38.jpg"/>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Stillssi's Github&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
+
+
+<img width="80%" style="display: block; margin: 0 auto; border-radius: 50px;-moz-border-radius: 7px;
+-khtml-border-radius: 7px;
+-webkit-border-radius: 7px;
+" src="https://i.pinimg.com/originals/e2/81/6f/e2816fda528aa3a4775db103db27ed38.jpg"/>
 </div>
+
 <div align="center">
 👩🏻‍💻 Data Scientist 👩🏻‍💻
     
