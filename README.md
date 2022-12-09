@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Stillssi
-- 👀 I’m interested in Python and ML
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on ML project!
-- 📫 How to reach me @stillssi
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&color=0:FCF2CE,100:355E3B)
+
