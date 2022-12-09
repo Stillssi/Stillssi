@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Stillssi's Github&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
 
 <div align="center">
-<img width="80%" src="https://i.pinimg.com/originals/4f/09/5a/4f095a03b15ca010412f140a23062209.gif"/>
+<img width="80%" src="https://i.pinimg.com/originals/47/4e/cf/474ecf1aa26eb1b04e489003d4a6a8a7.jpg"/>
 </div>
 
 <div align="center">
