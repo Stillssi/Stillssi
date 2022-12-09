@@ -4,7 +4,7 @@
 <img width="100%" src="https://i.pinimg.com/originals/e2/81/6f/e2816fda528aa3a4775db103db27ed38.jpg"/>
 
 <div align="center">
-### 👩🏻‍💻 Data Scientist 👩🏻‍💻
+👩🏻‍💻 Data Scientist 👩🏻‍💻
     
     Hi there! I'm student of Soongsil Univ.  
     I am very active, I like to exercise and meet people.🦾🥂  
