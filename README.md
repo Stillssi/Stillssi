@@ -10,7 +10,7 @@
     I am very active, I like to exercise and meet people.🦾🥂  
     My dream is to be a Data Scientist.😆
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimasill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stillssi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🥨 It's Me 🥨
