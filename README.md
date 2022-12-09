@@ -1,1 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Stillssi's%20Github&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Stillssi's Github&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
+
+<img width="100%" src="https://i.pinimg.com/originals/e2/81/6f/e2816fda528aa3a4775db103db27ed38.jpg"/>
+
+    
+### 👩🏻‍💻 Data Scientist 👩🏻‍💻
+    
+    Hi there! I'm student of Soongsil Univ.  
+    I am very active, I like to exercise and meet people.🦾🥂  
+    My dream is to be a Data Scientist.😆
+
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimasill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🥨 It's Me 🥨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stillssi&show_icons=true&theme=radical)
