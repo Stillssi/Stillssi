@@ -8,7 +8,7 @@
     
     Hi there! I'm student of Soongsil Univ.  
     I am very active, I like to exercise and meet people.🦾🥂  
-    My dream is to be a Data Scientist.😆
+    My dream is to be a Full-Stack Engineer.😆
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stillssi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center">📚 Tech Stack 📚</h2>
