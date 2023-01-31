@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Stillssi's%20github&fontSize=55)
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Stillssi's Github&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
 
 <div align="center">
 👩🏻‍💻 Data Scientist 👩🏻‍💻
